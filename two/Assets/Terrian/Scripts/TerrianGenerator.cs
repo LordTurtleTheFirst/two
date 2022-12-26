@@ -8,8 +8,6 @@ using UnityEngine;
 
 public class TerrianGenerator : MonoBehaviour
 {
-    Vector3Int cubeSize;
-
     [HideInInspector] public float height = 0.2f;
 
     public float frequency;
